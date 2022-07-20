@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;  
+}
+@font-face {
+    font-family: MadHacker;
+    src: url(fonts/Mad\ Hacker.otf);
+}
+
